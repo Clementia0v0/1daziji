@@ -1,0 +1,1 @@
+EnergyStorageCapacity = EnergyStorageCapacity*1.2
